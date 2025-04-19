@@ -13,7 +13,7 @@ If you've earned money through your own open source project — big or small —
 
 If you'd like to support this project or buy me a drink while I write more content like this:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://sreeman.sh/support)
 
 ---
 
