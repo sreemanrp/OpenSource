@@ -19,7 +19,3 @@ Here are some useful tools you can use:
 
 - [Plausible](https://plausible.io) — Lightweight analytics
 - [Simple Analytics](https://simpleanalytics.com)
-
----
-
-Add your favorite tools via PR!
