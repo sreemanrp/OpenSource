@@ -13,7 +13,7 @@ If you've earned money through your own open source project — big or small —
 
 If you'd like to support this project or buy me a drink while I write more content like this:
 
-[![Buy Me a Coffee](https://sreeman.sh/support)
+[Support](https://sreeman.sh/support)
 
 ---
 
