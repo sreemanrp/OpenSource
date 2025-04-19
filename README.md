@@ -2,8 +2,6 @@
 
 This is a practical guide for solo developers who want to start open-source projects and make money doing it. Whether you’re aiming for donations, sponsorships, or launching a SaaS from your repo — this is for you.
 
-> ⚡ Bonus: This repo exists to collect stars too — aiming for the [Starstruck Badge](https://docs.github.com/en/...)
-
 ---
 
 ## 🌟 Why This Exists
