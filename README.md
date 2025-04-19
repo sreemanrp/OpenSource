@@ -23,4 +23,4 @@ Many devs want to start open source projects but aren’t sure how to sustain th
 
 ## 🤝 Contribute
 
-If you’ve made money from OSS as a solo dev, share your experience in a PR!
+If you’ve made money from OSS as a solo dev, share your experience in the [Discussions](https://github.com/)
